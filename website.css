@@ -1,0 +1,164 @@
+.Button1{
+    border: none;
+    background-color: black;
+    color: white;
+    height: 33px;
+    width: 104px;
+    font-size: small;
+    cursor: pointer;
+    float: left;
+    transition: background-color 0.15s;
+}
+.Button1:hover{
+    background-color: rgb(58, 58, 58);
+}
+.Button2{
+    border: none;
+    background-color: rgb(255, 233, 20);
+    color: black;
+    height: 33px;
+    width: 160px;
+    font-weight: 50;
+    border-radius: 60px;
+    margin-left: 50px;
+    cursor: pointer;
+    float: left;
+    transition: background-color 0.15s;
+}
+.Button2:hover{
+    background-color: rgb(255, 208, 0);
+}
+.Button3{
+    border: none;
+    background-color: rgb(54, 175, 86);
+    color: white;
+    height: 33px;
+    width: 86px;
+    font-weight: 549;
+    border-radius: 8px;
+    margin-left: 50px;
+    cursor: pointer;
+    float: left;
+    transition: box-shadow 0.15s;
+}
+.Button3:hover{
+    box-shadow: 3px 3px 3px rgba(0, 0, 0, 0.15);
+}
+.Button4a{
+    border: none;
+    background-color: blueviolet;
+    color: white;
+    height: 33px;
+    width: 103px;
+    font-weight: 550;
+    border-radius: 3px;
+    margin-left: 50px;
+    cursor: pointer;
+    float: left;
+    transition: background-color 0.15s;
+}
+.Button4a:hover{
+    background-color: rgb(120, 39, 196);
+}
+.Button4b{
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    height: 33px;
+    width: 103px;
+    font-weight: 550;
+    border-radius: 3px;
+    margin-left: 6px;
+    cursor: pointer;
+    float: left;
+    transition: background-color 0.15s,
+    color 0.15s;
+    border-width: 1px;
+}
+.Button4b:hover{
+    background-color: rgb(172, 172, 172);
+    color: white;
+}
+.Button5a{
+    border: none;
+    background-color: rgb(93, 112, 219);
+    color: white;
+    height: 33px;
+    width: 230px;
+    font-weight: 550;
+    border-radius: 130px;
+    margin-left: 50px;
+    cursor: pointer;
+    float: left;
+    transition: ackground-color 0.15s;
+}
+.Button5a:hover{
+    background-color: rgb(73, 92, 201);
+}
+.Button5b{
+    border-color: rgb(93, 122, 219);
+    background-color: rgb(255, 255, 255);
+    color: rgb(93, 122, 219);
+    height: 33px;
+    width: 70px;
+    font-weight: 550;
+    border-radius: 130px;
+    margin-left: 6px;
+    cursor: pointer;
+    float: left;
+    border-width: 1px;
+}
+.Button5b:hover{
+    background-color: rgb(238, 244, 253);
+}
+.subscribe{
+    border: none;
+    background-color: rgb(226, 8, 8);
+    color: white;
+    height: 33px;
+    width: 108px;
+    margin-left: 50px;
+    border-radius: 3px;
+    transition: opacity 0.15s;
+    float: left;
+}
+.subscribe:hover{
+    opacity: 0.6;
+}
+.subscribe:active{
+    opacity: 0.4;
+}
+.join{
+    border-color: rgb(69, 120, 214);
+    background-color: rgb(255, 255, 255);
+    color: rgb(69, 120, 214);
+    height: 33px;
+    width: 68px;
+    margin-top: 25px;
+    border-radius: 3px;
+    transition: opacity 0.15s,
+    color 0.15s;
+    float: left;
+    border-width: 1.9px;
+}
+.join:hover{
+    color: white;
+    background-color: rgb(69, 120, 214);
+}
+.join:active{
+    opacity: 0.6;
+}
+.tweet{
+    margin-left: 50px;
+    margin-top: 25px;
+    height: 33px;
+    width: 70px;
+    color: white;
+    background-color: rgb(21, 103, 255);
+    border: none;
+    border-radius: 35px;
+    font-weight: bold;
+    transition: box-shadow 0.15s;
+}
+.tweet:hover{
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.15);
+}
